@@ -73,7 +73,7 @@
 # ***************************************************************************
 # See https://matplotlib.org/api/artist_api.html#module-matplotlib.lines
 # for more information on line properties.
-lines.linewidth: 1.5               # line width in points
+lines.linewidth: 3                 # line width in points
 lines.linestyle: -                 # solid line
 lines.color:     C0                # has no affect on plot(); see axes.prop_cycle
 lines.marker:          None        # the default marker
@@ -160,7 +160,7 @@ axes.titlecolor:    auto    # color of the axes title, auto falls back to
 
 axes.labelcolor:    black
 
-axes.prop_cycle: cycler(color=['ff0000', 'ff6f00', 'fffc00', '32e900', '004dcd', '6900fe', 'ff003a', 'ff7800', 'ffff00', '54ff00'])
+axes.prop_cycle: cycler(color = ['1f77b4','ff7f0e','2ca02c','d62728','9467bd','8c564b','e377c2','7f7f7f','bcbd22','17becf'])
 
 
 # ***************************************************************************
@@ -211,7 +211,7 @@ grid.alpha:     1.0     # transparency, between 0.0 and 1.0
 # See https://matplotlib.org/api/figure_api.html#matplotlib.figure.Figure
 figure.titlesize:   large     # size of the figure title (``Figure.suptitle()``)
 figure.titleweight: normal    # weight of the figure title
-figure.figsize:     7, 5  # figure size in inches
+figure.figsize:     6.4, 4.8  # figure size in inches
 figure.dpi:         100       # figure dots per inch
 figure.facecolor:   white     # figure face color
 figure.edgecolor:   white     # figure edge color

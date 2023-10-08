@@ -13,4 +13,6 @@ This will use the style sheet you want instead of just some default style that t
 I love this feature because I can make light mode and dark mode plots with a flip of a switch. My style sheets relative to the 
 default look something like
 
+![Summary Image](./images/summary.png)
+
 
