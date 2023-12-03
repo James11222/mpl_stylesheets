@@ -84,7 +84,7 @@ lines.markersize:      6           # marker size, in points
 lines.dash_joinstyle:  round       # {miter, round, bevel}
 lines.dash_capstyle:   butt        # {butt, round, projecting}
 lines.solid_joinstyle: round       # {miter, round, bevel}
-lines.solid_capstyle:  projecting  # {butt, round, projecting}
+lines.solid_capstyle:  round  # {butt, round, projecting}
 lines.antialiased: True            # render lines in antialiased (no jaggies)
 
 
